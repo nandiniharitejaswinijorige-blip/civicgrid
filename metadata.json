@@ -1,0 +1,8 @@
+{
+  "name": "CivicGrid",
+  "description": "Neighborhood infrastructure dispatch, SLA accountability, and transparent municipal repair tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
